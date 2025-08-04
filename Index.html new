@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Karishma Bridal Makeup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Karishma Bridal Makeup</h1>
+    <p>Welcome to our official website!</p>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="services.html">Services</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <img src="bridal.jpg" alt="Bridal Look" width="300">
+</body>
+</html>
